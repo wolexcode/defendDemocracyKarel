@@ -1,11 +1,10 @@
-package week1;
+week1 Assignment;
 /*
- * File: CheckerboardKarel.java
+ * File: defendDemocracyKarel.java
  * ----------------------------
- * When you finish writing it, the CheckerboardKarel class should draw
- * a checkerboard using beepers, as described in Assignment 1.  You
- * should make sure that your program works for all of the sample
- * worlds supplied in the starter folder.
+ * Karel is going to clean up the voting ballot.
+ * The vote only counts if the middle rectangle is punched,
+ * which means there are no beepers present
  */
 
 import stanford.karel.SuperKarel;
