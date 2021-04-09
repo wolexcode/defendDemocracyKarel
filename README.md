@@ -1,0 +1,2 @@
+# defendDemocracyKarel
+meritAmericaAssignment1
